@@ -1,6 +1,15 @@
-# One-time GitHub UI steps (cannot be done from git alone)
+# Finish GitHub profile setup
 
-Complete these on [github.com/saboonikhil](https://github.com/saboonikhil) after `README.md` is pushed.
+Profile README is live at [github.com/saboonikhil](https://github.com/saboonikhil).
+
+## Automated (bio + kahwa About)
+
+```bash
+gh auth login
+./scripts/apply-github-profile.sh
+```
+
+## Manual (pinned repos — no GitHub API)
 
 ## Edit profile bio
 
