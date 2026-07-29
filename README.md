@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/saboonikhil/kahwa/main/web/public/icons/kahwa-logo.svg" alt="Kahwa" width="48" height="48" />
-</p>
+<img align="left" width="48" height="48" alt="Kahwa" src="assets/kahwa-logo.svg#gh-light-mode-only" />
+<img align="left" width="48" height="48" alt="Kahwa" src="assets/kahwa-logo-dark.svg#gh-dark-mode-only" />
+<img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=saboonikhil&label=Profile%20views&color=2F81F7&style=for-the-badge" />
+<br clear="both" />
 
 ### Hi, I'm Nikhil Saboo
 
@@ -38,9 +39,11 @@ Contributions, issues, and feature ideas welcome.
 
 ---
 
-### GitHub stats
+### Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saboonikhil&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saboonikhil&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</picture>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saboonikhil&theme=github-dark&hide_border=true&area=true&custom_title=This%20year%27s%20contributions" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saboonikhil&theme=github-light&hide_border=true&area=true&custom_title=This%20year%27s%20contributions" alt="This year's contributions" />
+  </picture>
+</p>
