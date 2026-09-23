@@ -24,7 +24,7 @@ Same shape across domains: **intake → logic → surface**.
 | Thread | Repos | Idea |
 |---|---|---|
 | **Messaging** | [Kahwa](https://github.com/saboonikhil/kahwa) | Own the chat plane from session to inbox (featured below) |
-| **Ops APIs & UIs** | [Drag-API](https://github.com/saboonikhil/Drag-API) · [Recruitments](https://github.com/saboonikhil/Recruitments) + [backend](https://github.com/saboonikhil/Recruitments_backend) | Marketplace and hiring flows: JWT APIs, payments/OTP, Angular operator UI |
+| **Ride ops** | [Drag-API](https://github.com/saboonikhil/Drag-API) · [Drag-Partner](https://github.com/saboonikhil/Drag-Partner) | Marketplace API plus Android partner app: trips, requests, fleet, connections |
 | **Health & sensing** | [Gait-Assessment](https://github.com/saboonikhil/Gait-Assessment) · [Medicent](https://github.com/saboonikhil/Medicent) | Wearable pressure/gyro into gait phases; doctor and patient portal for appointments and records |
 
 ---
@@ -63,8 +63,6 @@ git clone https://github.com/saboonikhil/kahwa.git && cd kahwa && npm install &&
 </p>
 
 ---
-
-### Stats
 
 <p align="center">
   <picture>
