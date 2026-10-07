@@ -24,7 +24,7 @@ Same shape across domains: **intake → logic → surface**.
 | Thread | Repos | Idea |
 |---|---|---|
 | **Messaging** | [Kahwa](https://github.com/saboonikhil/kahwa) | Own the chat plane from session to inbox (featured below) |
-| **Ride ops** | [Drag-API](https://github.com/saboonikhil/Drag-API) · [Drag-Partner](https://github.com/saboonikhil/Drag-Partner) | Marketplace API plus Android partner app: trips, requests, fleet, connections |
+| **Ride ops** | [Drag-API](https://github.com/saboonikhil/Drag-API) · [Drag-User](https://github.com/saboonikhil/Drag-User) · [Drag-Partner](https://github.com/saboonikhil/Drag-Partner) | Ride-sharing stack: Express API, Android rider app, and Android partner/admin app |
 | **Health & sensing** | [Gait-Assessment](https://github.com/saboonikhil/Gait-Assessment) · [Medicent](https://github.com/saboonikhil/Medicent) | Wearable pressure/gyro into gait phases; doctor and patient portal for appointments and records |
 
 ---
